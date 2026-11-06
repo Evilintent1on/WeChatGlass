@@ -1,6 +1,6 @@
 Package: com.evilintent1on.wechatglass
 Name: WeChatGlass
-Version: 0.1-1
+Version: 0.2-1
 Architecture: iphoneos-arm
 Description: WeChat liquid glass (uploaded WeChatGlass source, built as-is)
 Maintainer: Evilintent1on
